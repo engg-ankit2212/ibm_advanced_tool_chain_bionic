@@ -3,4 +3,4 @@ arch: ppc64le
 group: dev
 lamguage: go
 script:
-  - ls
+  - go run hello_world.go
